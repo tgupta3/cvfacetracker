@@ -13,7 +13,7 @@ To run clone the URl, and navigate to the directory using terminal type in
         
         
         
-         1) cmake,
+         1) cmake.
          2) make
          3) ./face
          
