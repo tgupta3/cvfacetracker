@@ -9,6 +9,10 @@ Next update is on porting the code to beagle board connected to a servo which wi
 
 
 To run clone the URl, and navigate to the directory using terminal type in 
+        
+        
+        
+        
          1) cmake,
          2) make
          3) ./face
