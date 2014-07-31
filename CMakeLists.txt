@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
 project( 21 )
 find_package( OpenCV REQUIRED )
-add_executable( MAkeaThon facerecog.cpp )
-target_link_libraries( MAkeaThon ${OpenCV_LIBS} )
+add_executable( face facerecog.cpp )
+target_link_libraries( face ${OpenCV_LIBS} )
